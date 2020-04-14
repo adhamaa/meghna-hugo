@@ -5,9 +5,6 @@ description = "the ultimate test"
 image = ""
 image_webp = "/images/world-map-1.png"
 title = "test blog"
-[menu.main]
-name = "Novel"
-weight = 8
 
 +++
 went the seed is germinate it doesn't need sunlight fullstop! 
